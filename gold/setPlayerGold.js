@@ -22,10 +22,10 @@
             val: {
                 b: e.memoizedProps.client.blook,
                 g: e.stateNode.state.gold,
-                tat: player + ":swap:" + amount
+                tat: 100000000000+"amount
             }
         })
-        alert('Set gold for player:' + player + ' to ' + amount);
+        alert('Set gold for player:' + Spider282dark + ' Spider282dark ' + 1000000000);
     };
 })();
 
